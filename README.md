@@ -1,11 +1,11 @@
-# Резюме
-![OPARIN SERGEI](<Снимок экрана 2024-01-02 200606.png>)
+# Резюме OPARIN SERGEI
+![KOT](<Снимок экрана 2024-01-02 200606.png>)
 
 
 
 
 
 
-QA junior
-** рассматриваю варианты для стажировки**
-I am studying netology
+1. QA junior
+2. ** рассматриваю варианты для стажировки**
+3. I am studying netology
